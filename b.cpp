@@ -3,6 +3,8 @@ using namespace std;
 
 #define ll long long
 
+// B. Ugu
+
 void solve() {
     int n;
     string s;
