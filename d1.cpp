@@ -3,7 +3,7 @@ using namespace std;
 
 #define ll long long
 
-// D1. Balance (Easy Version)
+// D1. Balance (Easy Version) 
 
 int32_t main() {
     ios::sync_with_stdio(false);
