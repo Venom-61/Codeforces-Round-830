@@ -3,7 +3,7 @@ using namespace std;
 
 #define ll long long
 
-// A. Bestie
+// A. Bestie 
 
 void solve() {
     int n;
